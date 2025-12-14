@@ -46,20 +46,4 @@ img_homomorphic_color = homomorphic_filtering_improved(
     gamma_high=4
 )
 
-# 3. 결과 시각화
-plt.figure(figsize=(15, 7))
-plt.subplot(1, 2, 1)
-plt.title('Original Color Image')
-plt.imshow(cv2.cvtColor(img_orig_color, cv2.COLOR_BGR2RGB))
-plt.axis('off')
-
-plt.subplot(1, 2, 2)
-plt.title('Improved Homomorphic Filtering Result')
-plt.imshow(cv2.cvtColor(img_homomorphic_color, cv2.COLOR_BGR2RGB))
-
-plt.axis('off')
-
-plt.show()
-
-# 파일로 저장
 cv2.imwrite('../../result/uneven_illumination/homomorphic.jpg', img_homomorphic_color)

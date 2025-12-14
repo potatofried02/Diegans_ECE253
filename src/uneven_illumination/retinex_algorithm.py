@@ -11,9 +11,7 @@ def multiScaleRetinex(img, variance_list):
         retinex += singleScaleRetinex(img, variance)
     retinex = retinex / len(variance_list)
     return retinex
-
    
-
 def MSR(img, variance_list):
     img = np.float64(img) + 1.0
     img_retinex = multiScaleRetinex(img, variance_list)
@@ -39,7 +37,6 @@ def MSR(img, variance_list):
                                * 255
     img_retinex = np.uint8(img_retinex)        
     return img_retinex
-
 
 
 def SSR(img, variance):
@@ -72,18 +69,9 @@ variance_list=[15, 80, 30]
 variance=300
     
 img = cv2.imread('../../dataset/uneven_illumination/dataset_classroom.png')
-print('Start')
-img_msr=MSR(img,variance_list)
-print('MSR Finish')
-img_ssr=SSR(img, variance)
-print('SSR Finish')
 
-cv2.imshow('Original_', img)
-cv2.imshow('MSR_2', img_msr)
-cv2.imshow('SSR_2', img_ssr)
+img_msr=MSR(img,variance_list)
+img_ssr=SSR(img, variance)
+
 cv2.imwrite('../../result/uneven_illumination/retinex_SSR.jpg', img_ssr)
 cv2.imwrite('../../result/uneven_illumination/retinex_MSR.jpg',img_msr)
-
-
-cv2.waitKey(0)
-cv2.destroyAllWindows()
