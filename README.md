@@ -1,4 +1,4 @@
-#Image Enhancement for Handwritten Recognition#
+Image Enhancement for Handwritten Recognition
 
 Author: Team Diegans (Group 13)
 
@@ -52,20 +52,22 @@ Install dependencies:
 
 pip install -r requirements.txt
 
+
 Prepare Datasets:
 
 This project utilizes the IMGUR-5K dataset for training.
 
 We also include a custom "In-The-Wild" dataset for testing real-world distortions.
 
-Ensure data is placed in the ./data directory.
+Note: Ensure data is placed in the ./data directory.
 
 💻 Usage
 
-To run the demo files on loading checkpoint:
+To run the demo files utilizing the loaded checkpoint:
 
 cd src
 python demo.py
+
 
 👥 Contributors
 
