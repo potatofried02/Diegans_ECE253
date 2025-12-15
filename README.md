@@ -1,4 +1,4 @@
-Image Enhancement for Handwritten Recognition
+#Image Enhancement for Handwritten Recognition#
 
 Author: Team Diegans (Group 13)
 
