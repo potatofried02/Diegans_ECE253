@@ -1,0 +1,404 @@
+{
+    "index_id": {
+        "21": {
+            "image_url": "local://21.jpg",
+            "image_path": "./dataset/21.jpg",
+            "image_hash": "6cde4ac1e8abf046a9336131add00faa"
+        },
+        "6": {
+            "image_url": "local://6.jpg",
+            "image_path": "./dataset/6.jpg",
+            "image_hash": "8c2ed9c6819d7e530aec9a25089c2e41"
+        },
+        "10": {
+            "image_url": "local://10.jpg",
+            "image_path": "./dataset/10.jpg",
+            "image_hash": "8ec0ebc4b33fb0b8e32e46da65dd2cf0"
+        },
+        "3": {
+            "image_url": "local://3.jpg",
+            "image_path": "./dataset/3.jpg",
+            "image_hash": "33a7a7878b6f57ed8f3e6e1e17c14192"
+        },
+        "28": {
+            "image_url": "local://28.jpg",
+            "image_path": "./dataset/28.jpg",
+            "image_hash": "0e5be5f669b5cd21cbe9e1920ec2f372"
+        },
+        "30": {
+            "image_url": "local://30.jpg",
+            "image_path": "./dataset/30.jpg",
+            "image_hash": "923ad2edafde6e7963e0bc49b5b3c731"
+        },
+        "8": {
+            "image_url": "local://8.jpg",
+            "image_path": "./dataset/8.jpg",
+            "image_hash": "a818f0e04f734e22ee64e9b2850b6407"
+        },
+        "13": {
+            "image_url": "local://13.jpg",
+            "image_path": "./dataset/13.jpg",
+            "image_hash": "2c2d60ec908d0e7a514a0b416f4f2338"
+        },
+        "16": {
+            "image_url": "local://16.jpg",
+            "image_path": "./dataset/16.jpg",
+            "image_hash": "07fbc57bb2602d1ed29604357514251e"
+        },
+        "7": {
+            "image_url": "local://7.jpg",
+            "image_path": "./dataset/7.jpg",
+            "image_hash": "165fbf18fd744a690ed780e0d086353e"
+        },
+        "12": {
+            "image_url": "local://12.jpg",
+            "image_path": "./dataset/12.jpg",
+            "image_hash": "b325b9294e58bd37d5e88b9aeb52d039"
+        },
+        "11": {
+            "image_url": "local://11.jpg",
+            "image_path": "./dataset/11.jpg",
+            "image_hash": "5c229587399bcf5794f6d2044500285e"
+        },
+        "23": {
+            "image_url": "local://23.jpg",
+            "image_path": "./dataset/23.jpg",
+            "image_hash": "567c64179a7887d6aded2c56460163de"
+        },
+        "1": {
+            "image_url": "local://1.jpg",
+            "image_path": "./dataset/1.jpg",
+            "image_hash": "87340381a27acfdcd29ae4a6ce9c2b12"
+        },
+        "25": {
+            "image_url": "local://25.jpg",
+            "image_path": "./dataset/25.jpg",
+            "image_hash": "b79e435f6f11db4f8efbc2ddf174be5a"
+        },
+        "14": {
+            "image_url": "local://14.jpg",
+            "image_path": "./dataset/14.jpg",
+            "image_hash": "e87db6d157e057f44467da9c90100537"
+        },
+        "26": {
+            "image_url": "local://26.jpg",
+            "image_path": "./dataset/26.jpg",
+            "image_hash": "c80d8a080a565a3a2e437d732871e375"
+        },
+        "4": {
+            "image_url": "local://4.jpg",
+            "image_path": "./dataset/4.jpg",
+            "image_hash": "636fae6fab323a69d61a5c800db50ef1"
+        },
+        "2": {
+            "image_url": "local://2.jpg",
+            "image_path": "./dataset/2.jpg",
+            "image_hash": "a767ce271119e76fd497897578249c8b"
+        },
+        "27": {
+            "image_url": "local://27.jpg",
+            "image_path": "./dataset/27.jpg",
+            "image_hash": "f9f8e54117eeff556df93d2022f2b21e"
+        },
+        "31": {
+            "image_url": "local://31.jpg",
+            "image_path": "./dataset/31.jpg",
+            "image_hash": "abc7b9478cf3a7aab9b652f2aa83e42c"
+        },
+        "33": {
+            "image_url": "local://33.jpg",
+            "image_path": "./dataset/33.jpg",
+            "image_hash": "f4f67188915d99eec046387e1fea0ed4"
+        },
+        "5": {
+            "image_url": "local://5.jpg",
+            "image_path": "./dataset/5.jpg",
+            "image_hash": "233b127aa5804dff1822579baa28497d"
+        },
+        "29": {
+            "image_url": "local://29.jpg",
+            "image_path": "./dataset/29.jpg",
+            "image_hash": "f6d7a6189edabae9a6fe556f67972f25"
+        },
+        "18": {
+            "image_url": "local://18.jpg",
+            "image_path": "./dataset/18.jpg",
+            "image_hash": "5430cf1e2231edd33f59c82e9a31d206"
+        },
+        "9": {
+            "image_url": "local://9.jpg",
+            "image_path": "./dataset/9.jpg",
+            "image_hash": "0aa8356de8322a45d226292dd483a412"
+        },
+        "22": {
+            "image_url": "local://22.jpg",
+            "image_path": "./dataset/22.jpg",
+            "image_hash": "91fd8b3c7c240da3fa80ae9788e9fd3a"
+        },
+        "17": {
+            "image_url": "local://17.jpg",
+            "image_path": "./dataset/17.jpg",
+            "image_hash": "de4f570afa0dcf8bc51f8e54922c62c2"
+        },
+        "24": {
+            "image_url": "local://24.jpg",
+            "image_path": "./dataset/24.jpg",
+            "image_hash": "f8973606d8757fc0d42e09431152714e"
+        },
+        "19": {
+            "image_url": "local://19.jpg",
+            "image_path": "./dataset/19.jpg",
+            "image_hash": "d70d992f54a40991f3ba793f18b74637"
+        },
+        "15": {
+            "image_url": "local://15.jpg",
+            "image_path": "./dataset/15.jpg",
+            "image_hash": "7b51936022abb71deb93a27703381c4c"
+        },
+        "20": {
+            "image_url": "local://20.jpg",
+            "image_path": "./dataset/20.jpg",
+            "image_hash": "f12702d41f76847b3f6ba662b346060c"
+        },
+        "32": {
+            "image_url": "local://32.jpg",
+            "image_path": "./dataset/32.jpg",
+            "image_hash": "e36c66f82ecaba759136dfa64e2ccc47"
+        }
+    },
+    "index_to_ann_map": {
+        "21": [
+            "21_0"
+        ],
+        "6": [
+            "6_0"
+        ],
+        "10": [
+            "10_0"
+        ],
+        "3": [
+            "3_0"
+        ],
+        "28": [
+            "28_0"
+        ],
+        "30": [
+            "30_0"
+        ],
+        "8": [
+            "8_0"
+        ],
+        "13": [
+            "13_0"
+        ],
+        "16": [
+            "16_0"
+        ],
+        "7": [
+            "7_0"
+        ],
+        "12": [
+            "12_0"
+        ],
+        "11": [
+            "11_0"
+        ],
+        "23": [
+            "23_0"
+        ],
+        "1": [
+            "1_0"
+        ],
+        "25": [
+            "25_0"
+        ],
+        "14": [
+            "14_0"
+        ],
+        "26": [
+            "26_0"
+        ],
+        "4": [
+            "4_0"
+        ],
+        "2": [
+            "2_0"
+        ],
+        "27": [
+            "27_0"
+        ],
+        "31": [
+            "31_0"
+        ],
+        "33": [
+            "33_0"
+        ],
+        "5": [
+            "5_0"
+        ],
+        "29": [
+            "29_0"
+        ],
+        "18": [
+            "18_0"
+        ],
+        "9": [
+            "9_0"
+        ],
+        "22": [
+            "22_0"
+        ],
+        "17": [
+            "17_0"
+        ],
+        "24": [
+            "24_0"
+        ],
+        "19": [
+            "19_0"
+        ],
+        "15": [
+            "15_0"
+        ],
+        "20": [
+            "20_0"
+        ],
+        "32": [
+            "32_0"
+        ]
+    },
+    "ann_id": {
+        "21_0": {
+            "word": "are",
+            "bounding_box": "[185.0, 117.5, 370.0, 235.0, 0.0]"
+        },
+        "6_0": {
+            "word": "keeps",
+            "bounding_box": "[153.5, 108.5, 307.0, 217.0, 0.0]"
+        },
+        "10_0": {
+            "word": "you",
+            "bounding_box": "[171.5, 121.0, 343.0, 242.0, 0.0]"
+        },
+        "3_0": {
+            "word": "procedure",
+            "bounding_box": "[180.0, 55.5, 360.0, 111.0, 0.0]"
+        },
+        "28_0": {
+            "word": "Into",
+            "bounding_box": "[179.0, 96.5, 358.0, 193.0, 0.0]"
+        },
+        "30_0": {
+            "word": "with",
+            "bounding_box": "[264.5, 125.0, 529.0, 250.0, 0.0]"
+        },
+        "8_0": {
+            "word": "important",
+            "bounding_box": "[352.5, 111.5, 705.0, 223.0, 0.0]"
+        },
+        "13_0": {
+            "word": "what",
+            "bounding_box": "[133.0, 88.5, 266.0, 177.0, 0.0]"
+        },
+        "16_0": {
+            "word": "is",
+            "bounding_box": "[101.0, 92.0, 202.0, 184.0, 0.0]"
+        },
+        "7_0": {
+            "word": "Downsampling",
+            "bounding_box": "[397.5, 93.5, 795.0, 187.0, 0.0]"
+        },
+        "12_0": {
+            "word": "things",
+            "bounding_box": "[179.5, 115.0, 359.0, 230.0, 0.0]"
+        },
+        "11_0": {
+            "word": "do",
+            "bounding_box": "[107.0, 78.5, 214.0, 157.0, 0.0]"
+        },
+        "23_0": {
+            "word": "have",
+            "bounding_box": "[203.0, 96.5, 406.0, 193.0, 0.0]"
+        },
+        "1_0": {
+            "word": "Define",
+            "bounding_box": "[82.0, 46.0, 164.0, 92.0, 0.0]"
+        },
+        "25_0": {
+            "word": "the",
+            "bounding_box": "[150.5, 129.5, 301.0, 259.0, 0.0]"
+        },
+        "14_0": {
+            "word": "school",
+            "bounding_box": "[217.0, 84.0, 434.0, 168.0, 0.0]"
+        },
+        "26_0": {
+            "word": "graduate/",
+            "bounding_box": "[422.0, 147.5, 844.0, 295.0, 0.0]"
+        },
+        "4_0": {
+            "word": "identity",
+            "bounding_box": "[266.5, 99.0, 533.0, 198.0, 0.0]"
+        },
+        "2_0": {
+            "word": "project",
+            "bounding_box": "[128.5, 39.5, 257.0, 79.0, 0.0]"
+        },
+        "27_0": {
+            "word": "professional",
+            "bounding_box": "[537.5, 147.5, 1075.0, 295.0, 0.0]"
+        },
+        "31_0": {
+            "word": "experience",
+            "bounding_box": "[369.5, 132.5, 739.0, 265.0, 0.0]"
+        },
+        "33_0": {
+            "word": "schools,",
+            "bounding_box": "[410.0, 153.5, 820.0, 307.0, 0.0]"
+        },
+        "5_0": {
+            "word": "Compare",
+            "bounding_box": "[223.5, 97.5, 447.0, 195.0, 0.0]"
+        },
+        "29_0": {
+            "word": "selecting",
+            "bounding_box": "[347.0, 111.5, 694.0, 223.0, 0.0]"
+        },
+        "18_0": {
+            "word": "also",
+            "bounding_box": "[221.0, 129.5, 442.0, 259.0, 0.0]"
+        },
+        "9_0": {
+            "word": "is",
+            "bounding_box": "[140.5, 106.5, 281.0, 213.0, 0.0]"
+        },
+        "22_0": {
+            "word": "in",
+            "bounding_box": "[110.0, 95.0, 220.0, 190.0, 0.0]"
+        },
+        "17_0": {
+            "word": "an",
+            "bounding_box": "[99.5, 78.5, 199.0, 157.0, 0.0]"
+        },
+        "24_0": {
+            "word": "been",
+            "bounding_box": "[314.0, 141.5, 628.0, 283.0, 0.0]"
+        },
+        "19_0": {
+            "word": "key",
+            "bounding_box": "[171.5, 146.0, 343.0, 292.0, 0.0]"
+        },
+        "15_0": {
+            "word": "work.",
+            "bounding_box": "[155.5, 77.0, 311.0, 154.0, 0.0]"
+        },
+        "20_0": {
+            "word": "who",
+            "bounding_box": "[251.0, 156.5, 502.0, 313.0, 0.0]"
+        },
+        "32_0": {
+            "word": "your",
+            "bounding_box": "[197.0, 144.5, 394.0, 289.0, 0.0]"
+        }
+    }
+}
