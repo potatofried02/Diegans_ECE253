@@ -70,6 +70,15 @@ Note: Ensure data is placed in the ./data directory.
 
 # 💻 Usage
 
+To run algorithms about uneven illumination :
+
+```
+cd src/uneven_illumination
+python homomorphic_filter.py
+python retinex_algorithm.py
+```
+We can check the result in result folder.
+
 To run the demo files utilizing the loaded checkpoint:
 
 ```
@@ -84,3 +93,4 @@ David Kim
 Hyun Woo Yu
 
 Tianqi Chen
+
