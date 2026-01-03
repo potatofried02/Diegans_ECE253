@@ -86,11 +86,4 @@ cd src
 python demo.py
 ```
 
-# 👥 Contributors
-
-David Kim
-
-Hyun Woo Yu
-
-Tianqi Chen
 
